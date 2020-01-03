@@ -12,6 +12,6 @@ habits.
 #### Career Growth
 
 - [Ten Principles of Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
-- [The Tech Lead's New Project Checklist](https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/)
+- [The Tech Lead's New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist)
 
 :copyright: [Warpgate Ventures](http://www.warpgate.ventures)
