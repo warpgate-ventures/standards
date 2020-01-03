@@ -8,6 +8,7 @@ habits.
 - [Git](git.md)
 - [TheTwelveFactorApp](https://12factor.net/)
 - [Git Flow vs Github Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
+- [Signing Commits GPG](signing-commits-gpg.md)
 
 #### Career Growth
 
