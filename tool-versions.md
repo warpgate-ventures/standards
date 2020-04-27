@@ -1,7 +1,7 @@
 # Tool versions
 
-We prefer using [asdf](https://github.com/asdf-vm/asdf) to manage version
-managers for Elixir, react and node.js projects.
+We prefer using [asdf](https://github.com/asdf-vm/asdf) to manage versions
+of Elixir, react and node.js projects.
 
 You can copy and paste this and save it as `.tool-versions` in the same
 directory of your new project.
