@@ -15,6 +15,10 @@ habits.
 
 - [Eslint config](eslint.md)
 
+#### Tooling
+
+- [.tool-versions](tool-versions.md)
+
 #### Career Growth
 
 - [Ten Principles of Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
