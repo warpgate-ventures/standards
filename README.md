@@ -10,6 +10,11 @@ habits.
 - [Git Flow vs Github Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
 - [Signing Commits GPG](signing-commits-gpg.md)
 
+
+#### JavaScript
+
+- [Eslint config](eslint.md)
+
 #### Career Growth
 
 - [Ten Principles of Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
