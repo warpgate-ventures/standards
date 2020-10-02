@@ -3,8 +3,15 @@
 Collection of standards when it comes to code, ethics and workflow
 habits.
 
+#### Checklist
+
+1. Setup your Github account
+2. Create a PGP signature of your machine
+3. Setup VS code
+
 #### Workflow
 
+- [React.js](reactjs.md)
 - [Git](git.md)
 - [TheTwelveFactorApp](https://12factor.net/)
 - [Git Flow vs Github Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
