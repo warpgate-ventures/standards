@@ -17,10 +17,10 @@ habits.
 - [Git Flow vs Github Flow](https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/)
 - [Signing Commits GPG](signing-commits-gpg.md)
 
-
 #### JavaScript
 
 - [Eslint config](eslint.md)
+- [Prettier config](prettier.md)
 
 #### Tooling
 
