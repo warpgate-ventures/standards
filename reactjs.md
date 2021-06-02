@@ -15,7 +15,7 @@ yarn add react-hook-form react-query
 ### Install utilities
 
 ```
-yarn add numeral dayjs
+yarn add numeral dayjs nanoid
 ```
 
 ### GraphQL tips
