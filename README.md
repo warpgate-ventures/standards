@@ -8,6 +8,8 @@ habits.
 1. Setup your Github account
 2. Create a PGP signature of your machine
 3. Setup VS code
+4. Use `yarn add` when installing new modules
+5. Use the [prettier config](prettier.md)
 
 #### Workflow
 
