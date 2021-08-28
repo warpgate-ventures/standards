@@ -4,7 +4,7 @@ We build Next.js applications with Tailwind CSS as our CSS authoring framework.
 Some examples here may contain Tailwind CSS specific tips, but for the sake of
 practicality, we will include everything here.
 
-- [Customize your containers](#customize-your-containers)
+- [Page containers](#page-containers)
 - [Custom fonts](#custom-fonts)
 - [Blocks](#blocks)
 - [`Money.jsx` component](#moneyjsx-component)
@@ -13,7 +13,7 @@ practicality, we will include everything here.
 - [Authenticated pages](#authenticated-pages)
 - [Authenticated API routes](#authenticated-api-routes)
 
-# Customize your containers
+# Page containers
 
 In some cases wherein a mock-up contains a specific max-width, you can
 instead modify Tailwind's existing `container` class.
@@ -40,6 +40,14 @@ module.exports = {
 
 ```
 
+Then in your JSX file:
+
+```jsx
+<div className='container'>
+  ...
+</div>
+```
+
 # Custom fonts
 
 If a font name has spaces in it, you will need to wrap it in quotes.
@@ -64,7 +72,7 @@ module.exports = {
 
 # Blocks
 
-A block is a "row" of element presented in a page.
+A block is a "row" of element. Most commonly found in landing pages.
 
 Always use `grid` over `flex` when implementing a layout.
 
