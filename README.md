@@ -17,6 +17,10 @@ habits.
 - [Git](git.md)
 - [Signing Commits GPG](signing-commits-gpg.md)
 
+# Development tips
+
+- [Next.js](tips/nextjs.md)
+
 # JavaScript
 
 We primarily use `.prettierrc` configuration nowadays for convenience and ease of use.
